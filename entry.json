@@ -1,0 +1,43 @@
+{
+ "module": "s07_h_breakout",
+ "params": {},
+ "grid": [
+  {},
+  {
+   "entry": 12,
+   "exit": 6
+  },
+  {
+   "entry": 24,
+   "exit": 12
+  },
+  {
+   "entry": 96,
+   "exit": 48
+  },
+  {
+   "entry": 168,
+   "exit": 84
+  },
+  {
+   "entry": 336,
+   "exit": 168
+  },
+  {
+   "ma": 1
+  },
+  {
+   "short": 1
+  },
+  {
+   "short": 1,
+   "ma": 4800
+  },
+  {
+   "short": 1,
+   "ma": 4800,
+   "entry": 168,
+   "exit": 84
+  }
+ ]
+}
